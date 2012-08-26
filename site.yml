@@ -1,11 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
+title : sevenesque
+tagline: constant evolution.
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : "Jen '7' Evers-Corvina"
+  email : jen@sevvie.net
+  github : sevvie
+  twitter : '7esq'
+  feedburner : sevvie
 
 navigation :
   - archive.html
@@ -13,4 +13,4 @@ navigation :
   - categories.html
   - pages.html
   - about.md
-  
+
