@@ -1,6 +1,6 @@
 ---
-title : About Me
+title : about
 description:
 ---
 
-Hello, how are you?
+Nothing here, yet. I'm terrible at writing about myself well.
