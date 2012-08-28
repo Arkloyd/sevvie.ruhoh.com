@@ -1,0 +1,21 @@
+---
+layout: default
+---
+              <article class="blog">
+                <hgroup>
+                  <h1>{{ page.title }}</h1>
+                  <div class="byline">
+                    <div class="author"><i class="icon-edit"></i> Jen '7' Evers-Corvina</div>
+                    <div class="datetime"><i class="icon-time"></i> {{ page.date }}</div>
+                  </div>
+                </hgroup>
+                {{{ content }}}
+                <div class="metadata">
+                  <div class="tags">
+                    <i class="icon-tags"></i>
+                    {{# page.categories?to_categories }}
+                      {{> categories_list }}
+                    {{/ page.categories?to_categories }}
+                  </div>
+                </div>
+              </article>

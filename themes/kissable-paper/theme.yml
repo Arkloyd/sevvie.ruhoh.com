@@ -1,0 +1,23 @@
+{
+  "stylesheets" : {
+    "default" : [
+      "facades.css",
+      "style.css"
+    ],
+
+    "widgets" : {
+    }
+
+  },
+
+  "javascripts" : {
+    "default" : [
+      "jquery/jquery-1.8.0.min.js",
+    ]
+  },
+
+  "manifest" : {
+    "author" : "Jen '7' Evers-Corvina",
+    "website" : "http://sevvie.github.com/"
+  }
+}

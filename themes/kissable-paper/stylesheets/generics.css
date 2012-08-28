@@ -1,0 +1,82 @@
+.navbar-container {
+  padding-left: 2.128%;
+  padding-right: 2.128%;
+  width: auto; }
+  .navbar-container .navbar {
+    height: 2.5em; }
+    .navbar-container .navbar nav {
+      margin-bottom: 0;
+      display: inline-block; }
+      .navbar-container .navbar nav ul.nav {
+        margin-bottom: 0;
+        margin-left: 0; }
+        .navbar-container .navbar nav ul.nav li {
+          display: inline;
+          list-style: none;
+          line-height: 2.5em;
+          margin-left: 1em;
+          margin-right: 1em; }
+    .navbar-container .navbar .navbar-form {
+      display: inline-block;
+      margin-bottom: 0;
+      *zoom: 1; }
+      .navbar-container .navbar .navbar-form:before, .navbar-container .navbar .navbar-form:after {
+        display: table;
+        content: ""; }
+      .navbar-container .navbar .navbar-form:after {
+        clear: both; }
+      .navbar-container .navbar .navbar-form input, .navbar-container .navbar .navbar-form select {
+        display: inline-block;
+        margin-bottom: 0; }
+
+header {
+  padding-left: 2.128%;
+  padding-right: 2.128%;
+  width: auto; }
+  header #branding-medium {
+    height: 5em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15); }
+    header #branding-medium h1 {
+      padding-top: 1em; }
+
+.container {
+  margin-top: 18px; }
+
+[role="main"] article {
+  padding-bottom: 18px; }
+  [role="main"] article hgroup h1 {
+    line-height: 45px;
+    vertical-align: bottom;
+    color: #333333;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.075); }
+  [role="main"] article hgroup .byline .datetime, [role="main"] article hgroup .byline .author {
+    display: inline-block;
+    margin-left: 1em;
+    margin-right: 1em; }
+  [role="main"] article .metadata {
+    text-align: right; }
+
+.sidebar-container {
+  background-color: #dddddd; }
+  .sidebar-container .sidebar {
+    margin-left: 2em; }
+    .sidebar-container .sidebar ul {
+      margin-top: 0.5em;
+      margin-left: 0; }
+      .sidebar-container .sidebar ul li {
+        list-style: none;
+        margin-left: 0;
+        width: auto;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.15); }
+
+footer {
+  background: #111111;
+  color: #dddddd;
+  margin-top: 36px;
+  padding-left: 2.128%;
+  padding-right: 2.128%;
+  width: auto; }
+  footer .copy {
+    text-align: center;
+    font-size: 0.925em;
+    line-height: 27px; }
