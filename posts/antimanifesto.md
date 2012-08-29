@@ -272,6 +272,24 @@ in the history of information.
 
 ## Gather, Curate, Share
 
+It may seem arrogant of me, to talk of the needs of places in the world where
+the necessity for clean water supercedes the necessity for, perhaps, education,
+however, I am not trying to supercede anything. I am merely attempting to
+collect, refine, and distribute. I can't possibly begin to tell these people
+anything about living; those who survive the yearly hells of Bangladesh, those
+who stare doubtful at the endless 'helpers' who provide no help in Africa,
+those who defend their farms and their cultures, not as acts of terrorism but
+mostly out of fear, in Southwest Asia -- the only thing I could do for them,
+is create the opportunity to adapt new information; they have their ways of
+doing things, and if they see how others have done things, maybe, just maybe...
+They'll figure it out their way, and it'll be better than our way. It'll be
+nearly impossible to do myself but, given no other choice, I would.
+
+It is more important to me, that everyone have easy access to whatever
+information they need to accomplish their own goals, and be treated fairly and
+with respect for the merit of their thoughts and implementations, than it is
+for me to be happy.
+
 Information should be for everyone; absolutely everyone. What is done with the
 information is their own prerogative; I suspect, though, that the prerogatives
 of a large percentage of humans, are survival and hope. I hope with them.
